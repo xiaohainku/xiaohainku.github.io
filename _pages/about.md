@@ -52,4 +52,4 @@ If you are interested in our work, feel free to contact me via email (1120230244
 - *2019.08 - 2023.06*, Undergraduate, School of Physics, Nankai University, Tianjin
 - *2016.08 - 2019.06*, Zunyi No.4 Senior High School, Guizhou
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xChdUt_FNcncwYF-LyldlOlIdxgyG-AKtNt_7YxtzZo&cl=ffffff&w=a" width="600" height="400"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=xChdUt_FNcncwYF-LyldlOlIdxgyG-AKtNt_7YxtzZo&cl=ffffff&w=a" style="width:600px; height:400px;"></script>
