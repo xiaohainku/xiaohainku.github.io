@@ -19,7 +19,7 @@ redirect_from:
 
 I am a second-year Ph.D. student at the College of Artificial Intelligence at Nankai University and the Department of Computing at The Hong Kong Polytechnic University, under the supervision of [Prof. Jing Xu](https://ai.nankai.edu.cn/info/1033/3528.htm) and [Prof. Ping Li](https://www4.comp.polyu.edu.hk/~pinli/). Prior to that, I obtained my bachelor's degree from the School of Physics at Nankai University.
 
-My research interests include computer vision and deep learning, with a particular focus on retrieval-augmented generation, weakly supervised learning, and unsupervised learning.
+My research interests include computer vision and deep learning, with a particular focus on retrieval-augmented generation, weakly supervised learning, unsupervised learning and training-free methods.
 
 If you are interested in our work, feel free to contact me via email (1120230244@mail.nankai.edu.cn; polyuduji.du@connect.polyu.hk) or WeChat (XH_duji).
 
