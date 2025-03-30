@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Ji Du (杜纪)"
-description              : "Dual PhD at NKU and PolyU. Focusing on computer vision and deep learning."
+description              : "Focusing on computer vision and deep learning."
 repository               : "xiaohainku/xiaohainku.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Ji Du (杜纪)"
   avatar           : "images/duji.jpg"
-  bio              : "NKU and PolyU"
+  bio              : "Dual PhD at NKU and PolyU"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
