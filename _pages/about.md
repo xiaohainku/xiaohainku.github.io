@@ -26,7 +26,7 @@ If you are interested in our work, feel free to contact me via email (1120230244
 
 # 🔥 News
 
-- *2025.02*: &nbsp;🎉 One paper accepted by CVPR 2025
+- *2025.02*: &nbsp;🎉 One paper is accepted by CVPR 2025
 
 # 📝 Publications 
 
