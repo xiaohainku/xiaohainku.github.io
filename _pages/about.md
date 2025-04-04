@@ -21,7 +21,7 @@ I am a second-year Dual Ph.D. student (2023-) at the College of Artificial Intel
 
 My research interests include computer vision and deep learning, with a particular focus on retrieval-augmented generation, weakly supervised learning, unsupervised learning and training-free methods.
 
-If you are interested in our work, feel free to contact me via email (1120230244@mail.nankai.edu.cn; polyuduji.du@connect.polyu.hk) or WeChat (XH_duji).
+If you are interested in our work, feel free to contact me via email (1120230244@mail.nankai.edu.cn; polyuduji.du@connect.polyu.hk).
 
 
 # 🔥 News
