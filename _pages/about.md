@@ -36,7 +36,7 @@ If you are interested in our work, feel free to contact me via email (duji@mail.
   <h4>Shift the Lens: Environment-Aware Unsupervised Camouflaged Object Detection</h4>   
   <sub><p style="line-height:15px"> <b>Ji Du</b>, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing XU#, Ping Li#</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>   
-  <p style="line-height:15px"> <a href="[https://cvpr.thecvf.com/virtual/2025/poster/32742](https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html)">[Paper]</a> <a href="https://github.com/xiaohainku/EASE" class="redlink">[Code]</a> </p>   
+  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/xiaohainku/EASE" class="redlink">[Code]</a> </p>   
   </sub>
 </blockquote>
 
