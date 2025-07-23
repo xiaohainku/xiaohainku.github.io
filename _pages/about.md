@@ -36,7 +36,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
   <h4>Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection</h4>   
   <sub><p style="line-height:15px"> <b>Ji Du</b>, Xin Wang, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu#, Ping Li#</p> 
   <p style="line-height:15px">IEEE International Conference on Computer Vision (ICCV), 2025</p>   
-  <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/xiaohainku/RISE" class="redlink">[Code]</a> </p>   
+  <p style="line-height:15px"> <a href="https://iccv.thecvf.com/virtual/2025/poster/1636">[Paper]</a> <a href="https://github.com/xiaohainku/RISE" class="redlink">[Code]</a> </p>   
   </sub>
 </blockquote>
 
