@@ -25,12 +25,21 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉 One paper is accepted by TIP 2025
 - *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025
 - *2025.02*: &nbsp;🎉 One paper is accepted by CVPR 2025
 
 # 📝 Selected Publications 
 
 #### *: Equal contribution #: Corresponding author.
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models</h4>   
+  <sub><p style="line-height:15px"> <b>Ji Du</b>, Jiesheng Wu, Desheng Kong, Weiyun Liang, Fangwei Hao, Jing Xu#, Bin Wang, Guiling Wang, Ping Li#</p> 
+  <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2025</p>   
+  <p style="line-height:15px"> <a href="https://xiaohainku.github.io/">[Paper]</a> <a href="https://github.com/xiaohainku/UpGen" class="redlink">[Code]</a> </p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection</h4>   
