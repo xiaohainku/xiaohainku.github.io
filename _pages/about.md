@@ -37,7 +37,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
   <h4>UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models</h4>   
   <sub><p style="line-height:15px"> <b>Ji Du</b>, Jiesheng Wu#, Desheng Kong, Weiyun Liang, Fangwei Hao, Jing Xu#, Bin Wang, Guiling Wang, Ping Li#</p> 
   <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2025</p>   
-  <p style="line-height:15px"> <a href="https://xiaohainku.github.io/">[Paper]</a> <a href="https://github.com/xiaohainku/UpGen" class="redlink">[Code]</a> </p>   
+  <p style="line-height:15px"> <a href="https://doi.org/10.1109/TIP.2025.3599101">[Paper]</a> <a href="https://github.com/xiaohainku/UpGen" class="redlink">[Code]</a> </p>   
   </sub>
 </blockquote>
 
