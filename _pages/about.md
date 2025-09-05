@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year Dual Ph.D. student (2023-) at the College of Artificial Intelligence at Nankai University and the Department of Computing at The Hong Kong Polytechnic University, under the supervision of Prof. Jing Xu and Prof. Ping Li. Prior to that, I obtained my bachelor's degree from the School of Physics at Nankai University.
+I am a third-year Dual Ph.D. student (2023-) at the College of Artificial Intelligence at Nankai University and the Department of Computing at The Hong Kong Polytechnic University, under the supervision of Prof. Jing Xu and Prof. Ping Li. Prior to that, I obtained my bachelor's degree from the School of Physics at Nankai University.
 
 My research interests include computer vision and deep learning, with a particular focus on retrieval-augmented generation, weakly supervised learning, unsupervised learning and training-free methods.
 
