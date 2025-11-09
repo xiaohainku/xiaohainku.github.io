@@ -67,4 +67,3 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 - *2024.09 - present*, PhD, Department of Computing, The Hong Kong Polytechnic University, Hong Kong
 - *2023.08 - present*, PhD, College of Artificial Intelligence, Nankai University, Tianjin
 - *2019.08 - 2023.06*, Undergraduate, School of Physics, Nankai University, Tianjin
-- *2016.08 - 2019.06*, Zunyi No.4 Senior High School, Guizhou
