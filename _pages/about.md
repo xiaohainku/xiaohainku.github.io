@@ -25,6 +25,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉 One paper is accepted by TOG 2025
 - *2025.07*: &nbsp;🎉 One paper is accepted by TIP 2025
 - *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025
 - *2025.02*: &nbsp;🎉 One paper is accepted by CVPR 2025
@@ -32,6 +33,14 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 # 📝 Selected Publications 
 
 #### *: Equal contribution #: Corresponding author.
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting</h4>   
+  <sub><p style="line-height:15px"> Xin Wang, Di Lin, Wanchao Su, <b>Ji Du</b>, Renjie Zhang, Jie Zhang, Haotian Dong, Ke Xu, Qing Guo, Ping Li</p> 
+  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
+  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models</h4>   
