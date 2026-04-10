@@ -68,8 +68,8 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Learn from Examples: In-Context Learning for Camouflaged Object Detection</h4>   
   <sub><p style="line-height:15px"> Chunyuan Chen, Weiyun Liang, <b>Ji Du</b>, Jing Xu, Ping Li, Guiling Wang</p> 
-  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
-  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
+  <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2026</p>   
+  <p style="line-height:15px"> <a href="https://doi.org/10.1109/TIP.2026.3680717">[Paper]</a> </p>   
   </sub>
 </blockquote>
 
