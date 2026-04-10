@@ -34,14 +34,6 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 #### *: Equal contribution #: Corresponding author.
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting</h4>   
-  <sub><p style="line-height:15px"> Xin Wang, Di Lin, Wanchao Su, <b>Ji Du</b>, Renjie Zhang, Jie Zhang, Haotian Dong, Ke Xu, Qing Guo, Ping Li</p> 
-  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
-  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models</h4>   
   <sub><p style="line-height:15px"> <b>Ji Du</b>, Jiesheng Wu#, Desheng Kong, Weiyun Liang, Fangwei Hao, Jing Xu#, Bin Wang, Guiling Wang, Ping Li#</p> 
   <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2025</p>   
@@ -62,6 +54,22 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
   <sub><p style="line-height:15px"> <b>Ji Du</b>, Fangwei Hao, Mingyang Yu, Desheng Kong, Jiesheng Wu, Bin Wang, Jing XU#, Ping Li#</p> 
   <p style="line-height:15px">IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025</p>   
   <p style="line-height:15px"> <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Du_Shift_the_Lens_Environment-Aware_Unsupervised_Camouflaged_Object_Detection_CVPR_2025_paper.html">[Paper]</a> <a href="https://github.com/xiaohainku/EASE" class="redlink">[Code]</a> <a href="https://www.bilibili.com/video/BV1Tu8Dz5EsT/?share_source=copy_web&vd_source=678c5663eb1607760dc08b4ede52edf2" class="redlink">[Sharing Video]</a> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting</h4>   
+  <sub><p style="line-height:15px"> Xin Wang, Di Lin, Wanchao Su, <b>Ji Du</b>, Renjie Zhang, Jie Zhang, Haotian Dong, Ke Xu, Qing Guo, Ping Li</p> 
+  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
+  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>Learn from Examples: In-Context Learning for Camouflaged Object Detection</h4>   
+  <sub><p style="line-height:15px"> Chunyuan Chen, Weiyun Liang, <b>Ji Du</b>, Jing Xu, Ping Li, Guiling Wang</p> 
+  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
+  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
   </sub>
 </blockquote>
 
