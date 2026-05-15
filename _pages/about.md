@@ -37,7 +37,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>RA-COD: Retrieval-Augmented Camouflaged Object Detection</h4>   
   <sub><p style="line-height:15px"> <b>Ji Du</b>, Jiesheng Wu#, Desheng Kong, Fangwei Hao, Jing Xu#, Ping Li#</p> 
-  <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2025</p>   
+  <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2026</p>   
   <p style="line-height:15px"> <a href="https://doi.org/10.1109/TIP.2026.3691679">[Paper]</a> <a href="https://github.com/xiaohainku/RA-COD" class="redlink">[Code]</a> </p>   
   </sub>
 </blockquote>
@@ -67,18 +67,18 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 </blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
-  <h4>HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting</h4>   
-  <sub><p style="line-height:15px"> Xin Wang, Di Lin, Wanchao Su, <b>Ji Du</b>, Renjie Zhang, Jie Zhang, Haotian Dong, Ke Xu, Qing Guo, Ping Li</p> 
-  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
-  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
-  </sub>
-</blockquote>
-
-<blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>Learn from Examples: In-Context Learning for Camouflaged Object Detection</h4>   
   <sub><p style="line-height:15px"> Chunyuan Chen, Weiyun Liang, <b>Ji Du</b>, Jing Xu, Ping Li, Guiling Wang</p> 
   <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2026</p>   
   <p style="line-height:15px"> <a href="https://doi.org/10.1109/tip.2026.3680717">[Paper]</a> <a href="https://github.com/h0t-zer0/ICL-Camo" class="redlink">[Code]</a> </p>   
+  </sub>
+</blockquote>
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>HRC-Net: Learning Visual Hypothesis, Representative, and Collaboration for Multi-Domain Image Inpainting</h4>   
+  <sub><p style="line-height:15px"> Xin Wang, Di Lin, Wanchao Su, <b>Ji Du</b>, Renjie Zhang, Jie Zhang, Haotian Dong, Ke Xu, Qing Guo, Ping Li</p> 
+  <p style="line-height:15px">ACM Transactions on Graphics (TOG), 2025</p>   
+  <p style="line-height:15px"> <a href="https://dl.acm.org/doi/10.1145/3763337">[Paper]</a> </p>   
   </sub>
 </blockquote>
 
