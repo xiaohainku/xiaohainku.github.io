@@ -25,6 +25,7 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉 One paper is accepted by TIP 2026
 - *2025.07*: &nbsp;🎉 One paper is accepted by TIP 2025
 - *2025.06*: &nbsp;🎉 One paper is accepted by ICCV 2025
 - *2025.02*: &nbsp;🎉 One paper is accepted by CVPR 2025
@@ -32,6 +33,14 @@ Any form of collaboration is welcome. Please feel free to contact me via email (
 # 📝 Selected Publications 
 
 #### *: Equal contribution #: Corresponding author.
+
+<blockquote style="color: black;  border-width: 8px; border-color: orange">   
+  <h4>RA-COD: Retrieval-Augmented Camouflaged Object Detection</h4>   
+  <sub><p style="line-height:15px"> <b>Ji Du</b>, Jiesheng Wu#, Desheng Kong, Fangwei Hao, Jing Xu#, Ping Li#</p> 
+  <p style="line-height:15px">IEEE Transactions on Image Processing (TIP), 2025</p>   
+  <p style="line-height:15px"> <a href="https://doi.org/10.1109/TIP.2026.3691679">[Paper]</a> <a href="https://github.com/xiaohainku/RA-COD" class="redlink">[Code]</a> </p>   
+  </sub>
+</blockquote>
 
 <blockquote style="color: black;  border-width: 8px; border-color: orange">   
   <h4>UpGen: Unleashing Potential of Foundation Models for Training-Free Camouflage Detection via Generative Models</h4>   
